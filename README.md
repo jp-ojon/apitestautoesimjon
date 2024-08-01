@@ -35,9 +35,9 @@ Use the following commands in any terminal or cmd line to run tests
 - Create a config.properties file under src/test/resources. A sample config.example.properties is provided as template.
 - On the created config.properties, enter API Key and API Secret. Just paste it straight, no quotes and no spaces.
 
-- Example:
-- apiKey=12345abc
-- apiSecret=6789xyz
+* Example:
+* apiKey=12345abc
+* apiSecret=6789xyz
 
 ## Links to Documentation
 - RestAssured: https://rest-assured.io/
