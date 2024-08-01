@@ -7,7 +7,6 @@ import java.util.Properties;
 // Class to read config.properties which stores sensitive information
 public class ConfigFileReader {
 	private static final Properties properties = new Properties();
-	private static boolean loaded = false;
 
     static {
         try (InputStream input = ConfigFileReader.class.getClassLoader().getResourceAsStream("config.properties")) {
