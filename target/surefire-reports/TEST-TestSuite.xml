@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="7.734" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="8.204" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
-    <property name="sun.java.command" value="C:\Users\Jon Paulo\AppData\Local\Temp\surefire7550127985085136942\surefirebooter-20240801170404391_3.jar C:\Users\Jon Paulo\AppData\Local\Temp\surefire7550127985085136942 2024-08-01T17-04-04_254-jvmRun1 surefire-20240801170404391_1tmp surefire_0-20240801170404391_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Jon Paulo\AppData\Local\Temp\surefire4101320626894992248\surefirebooter-20240801173021224_3.jar C:\Users\Jon Paulo\AppData\Local\Temp\surefire4101320626894992248 2024-08-01T17-30-21_101-jvmRun1 surefire-20240801173021224_1tmp surefire_0-20240801173021224_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Projects\JavaProjects\rest-assured-api-test-auto-jon\apitestautoesimjon\target\test-classes;C:\Projects\JavaProjects\rest-assured-api-test-auto-jon\apitestautoesimjon\target\classes;C:\Users\Jon Paulo\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Jon Paulo\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Jon Paulo\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Jon Paulo\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Jon Paulo\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Jon Paulo\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Jon Paulo\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Jon Paulo\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Jon Paulo\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Jon Paulo\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\Jon Paulo\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Jon Paulo\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Jon Paulo\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\Jon Paulo\.m2\repository\com\jayway\jsonpath\json-path\2.9.0\json-path-2.9.0.jar;C:\Users\Jon Paulo\.m2\repository\net\minidev\json-smart\2.5.0\json-smart-2.5.0.jar;C:\Users\Jon Paulo\.m2\repository\net\minidev\accessors-smart\2.5.0\accessors-smart-2.5.0.jar;C:\Users\Jon Paulo\.m2\repository\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\Jon Paulo\.m2\repository\org\json\json\20240303\json-20240303.jar;C:\Users\Jon Paulo\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\Jon Paulo\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\Jon Paulo\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.2\jackson-core-2.17.2.jar;C:\Users\Jon Paulo\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.2\jackson-databind-2.17.2.jar;C:\Users\Jon Paulo\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.2\jackson-annotations-2.17.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Jon Paulo\AppData\Local\Temp\surefire7550127985085136942\surefirebooter-20240801170404391_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jon Paulo\AppData\Local\Temp\surefire4101320626894992248\surefirebooter-20240801173021224_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.2+9-70"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-22\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-22\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Users\Jon Paulo\AppData\Local\Microsoft\WindowsApps;C:\Users\Jon Paulo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Jon Paulo\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-22\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Jon Paulo/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.1.v20240426-1149/jre/bin/server;C:/Users/Jon Paulo/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.1.v20240426-1149/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-22\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Users\Jon Paulo\AppData\Local\Microsoft\WindowsApps;C:\Users\Jon Paulo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Jon Paulo\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Windows\System32;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,22 +58,22 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testOrderESIMsAndVerifyDetails[change-7days-1gb, sim, 1 gb, 3, 4.5, Usd, example description](1)" classname="api.tests.ApiTests" time="4.89">
+  <testcase name="testOrderESIMsAndVerifyDetails[change-7days-1gb, sim, 1 gb, 3, 4.5, Usd, example description](1)" classname="api.tests.ApiTests" time="5.458">
     <system-out><![CDATA[Post Submit Order Response Status Code: 200
-Orderid: 100923, packageId: change-7days-1gb, Type: sim, Data: 1 GB, Quantity: 3, Price: 4.5, Currency: USD
-Expected IDs: [144322, 144323, 144324]
-Expected ICCID: [893000000000075755, 893000000000075756, 893000000000075757]
+Orderid: 100926, packageId: change-7days-1gb, Type: sim, Data: 1 GB, Quantity: 3, Price: 4.5, Currency: USD
+Expected IDs: [144331, 144332, 144333]
+Expected ICCID: [893000000000075764, 893000000000075765, 893000000000075766]
 Get ESIMs List Response Status Code: 200
-ESIMs List of IDs: [144324, 144323, 144322, 144309, 144308, 144307, 144306, 144305, 144304, 144302, 144301, 144300, 144299, 144298, 144297, 144289, 144288, 144287, 144286, 144285, 144284, 144283, 144282, 144281, 144280]
-ESIMs List of ICCIDs: [893000000000075757, 893000000000075756, 893000000000075755, 893000000000075742, 893000000000075741, 893000000000075740, 893000000000075739, 893000000000075738, 893000000000075737, 893000000000075735, 893000000000075734, 893000000000075733, 893000000000075732, 893000000000075731, 893000000000075730, 893000000000075722, 893000000000075721, 893000000000075720, 893000000000075719, 893000000000075718, 893000000000075717, 893000000000075716, 893000000000075715, 893000000000075714, 893000000000075713]
+ESIMs List of IDs: [144333, 144332, 144331, 144330, 144329, 144328, 144327, 144326, 144325, 144324, 144323, 144322, 144309, 144308, 144307, 144306, 144305, 144304, 144302, 144301, 144300, 144299, 144298, 144297, 144289]
+ESIMs List of ICCIDs: [893000000000075766, 893000000000075765, 893000000000075764, 893000000000075763, 893000000000075762, 893000000000075761, 893000000000075760, 893000000000075759, 893000000000075758, 893000000000075757, 893000000000075756, 893000000000075755, 893000000000075742, 893000000000075741, 893000000000075740, 893000000000075739, 893000000000075738, 893000000000075737, 893000000000075735, 893000000000075734, 893000000000075733, 893000000000075732, 893000000000075731, 893000000000075730, 893000000000075722]
 IDs Check: true, List contains all eSIMs in the order
 ICCIDs Check: true, List contains all eSIMs in the order
 Get ESIM Package History Response Status Code: 200
-ICCID: 893000000000075755, packageId: change-7days-1gb, Type: sim, Data: 1 GB
+ICCID: 893000000000075764, packageId: change-7days-1gb, Type: sim, Data: 1 GB
 Get ESIM Package History Response Status Code: 200
-ICCID: 893000000000075756, packageId: change-7days-1gb, Type: sim, Data: 1 GB
+ICCID: 893000000000075765, packageId: change-7days-1gb, Type: sim, Data: 1 GB
 Get ESIM Package History Response Status Code: 200
-ICCID: 893000000000075757, packageId: change-7days-1gb, Type: sim, Data: 1 GB
+ICCID: 893000000000075766, packageId: change-7days-1gb, Type: sim, Data: 1 GB
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation

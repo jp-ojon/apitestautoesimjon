@@ -17,8 +17,8 @@ import utilities.Utilities;;
 public class ApiTests {
 
 	// Private API Keys stored under config.properties file
-	private String apiKey;
-	private String apiSecret;
+	private String apiKey = ""; //clear
+	private String apiSecret = ""; //clear
 
 	// Declare variables with common usage
 	Response response;

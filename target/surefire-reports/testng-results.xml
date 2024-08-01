@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-01T17:04:07 CEST" name="TestSuite" finished-at="2024-08-01T17:04:12 CEST" duration-ms="4914">
+  <suite started-at="2024-08-01T17:30:24 CEST" name="TestSuite" finished-at="2024-08-01T17:30:29 CEST" duration-ms="5491">
     <groups>
     </groups>
-    <test started-at="2024-08-01T17:04:07 CEST" name="APITests" finished-at="2024-08-01T17:04:12 CEST" duration-ms="4914">
+    <test started-at="2024-08-01T17:30:24 CEST" name="APITests" finished-at="2024-08-01T17:30:29 CEST" duration-ms="5491">
       <class name="api.tests.ApiTests">
-        <test-method is-config="true" signature="authenticate()[pri:0, instance:api.tests.ApiTests@4567f35d]" started-at="2024-08-01T17:04:05 CEST" name="authenticate" finished-at="2024-08-01T17:04:07 CEST" duration-ms="2434" status="PASS">
+        <test-method is-config="true" signature="authenticate()[pri:0, instance:api.tests.ApiTests@4567f35d]" started-at="2024-08-01T17:30:21 CEST" name="authenticate" finished-at="2024-08-01T17:30:24 CEST" duration-ms="2325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- authenticate -->
-        <test-method signature="testOrderESIMsAndVerifyDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.tests.ApiTests@4567f35d]" started-at="2024-08-01T17:04:07 CEST" name="testOrderESIMsAndVerifyDetails" description="Test Order ESIMs And Verify Details. Submit an order and verify details on the ESIMs list and ESIMs package history." data-provider="csvData" finished-at="2024-08-01T17:04:12 CEST" duration-ms="4882" status="PASS">
+        <test-method signature="testOrderESIMsAndVerifyDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.tests.ApiTests@4567f35d]" started-at="2024-08-01T17:30:24 CEST" name="testOrderESIMsAndVerifyDetails" description="Test Order ESIMs And Verify Details. Submit an order and verify details on the ESIMs list and ESIMs package history." data-provider="csvData" finished-at="2024-08-01T17:30:29 CEST" duration-ms="5456" status="PASS">
           <params>
             <param index="0">
               <value>
