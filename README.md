@@ -15,14 +15,27 @@ Jon Paulo Ojon
 - git clone https://github.com/jp-ojon/apitestautoesimjon.git
 - change directory to root folder apitestautoesimjon
 
-## Test Cases
-- Test Case 1: Test Order ESIMs And Verify Details. Submit an order and verify details on the ESIMs list and ESIMs package history.
-
 ## Project Structure
 - src/test/java: Contains the test code.
 - src/test/resources: Contains test resources (e.g., configuration files, testdata).
 - pom.xml: Maven build configuration file.
 - testng.xml: Configuration of tests
+
+## Test Cases
+- Test Case 1: Test Order ESIMs And Verify Details. Submit an order and verify details on the ESIMs list and ESIMs package history.
+
+## Test Data
+- Please update the testdata.csv file under testdata folder accordingly. 
+
+Sample .csv test data
+packageid,type,data,quantity,price,currency,description
+merhaba-7days-1gb,sim,1 gb,6,4.5,usd,example description
+
+packageid,type,data,quantity,price,currency,description
+change-7days-1gb,sim,1 gb,3,4.5,Usd,example description
+
+packageid,type,data,quantity,price,currency,description
+guay-mobile-30days-20gb,sim,20 GB,12,26,USD,example description
 
 ## Running Tests
 Use the following commands in any terminal or cmd line to run tests
