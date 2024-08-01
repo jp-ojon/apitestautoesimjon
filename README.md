@@ -25,7 +25,7 @@ Jon Paulo Ojon
 - Test Case 1: Test Order ESIMs And Verify Details. Submit an order and verify details on the ESIMs list and ESIMs package history.
 
 ## Test Data
-- Please update the testdata.csv file under testdata folder accordingly. 
+- Please update the testdata.csv file under src/test/resources/ folder accordingly. 
 
 Sample .csv test data
 packageid,type,data,quantity,price,currency,description
